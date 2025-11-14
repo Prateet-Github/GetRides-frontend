@@ -7,7 +7,7 @@ const Suggestion = () => {
     {
       id: 1,
       title: "Ride",
-      description: "Go anywhere with Uber. Request a ride, hop in and go.",
+      description: "Go anywhere with GetRides. Request a ride, hop in and go.",
       icon: "./ride.png",
       onClick: () => navigate("/getride"),
     },

@@ -41,7 +41,7 @@ const Navbar = () => {
         {/* Left Menu (hidden on mobile) */}
         <div className="hidden md:flex items-center gap-8">
           <div className="text-3xl font-bold">
-            <Link to="/">Uber</Link>
+            <Link to="/">GetRides</Link>
           </div>
           <div className="flex gap-6">
             <Link to="/getride" className="hover:underline">

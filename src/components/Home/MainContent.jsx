@@ -58,7 +58,7 @@ const MainContent = () => {
           </span>
         </div>
 
-        <h1 className="text-4xl font-semibold">Go anywhere with Uber</h1>
+        <h1 className="text-4xl font-semibold">Go anywhere with GetRides</h1>
 
         <input
           type="text"

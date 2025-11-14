@@ -62,7 +62,7 @@ const Login = () => {
 
   return (
     <div className="w-screen h-screen flex flex-col">
-      <div className="bg-black text-white py-4 text-3xl pl-8">Uber</div>
+      <div className="bg-black text-white py-4 text-3xl pl-8">GetRides</div>
 
       <div className="flex flex-col items-center justify-center gap-5 flex-1 px-4">
         <h1 className="text-2xl max-w-xs font-medium text-center">
@@ -193,7 +193,7 @@ const Login = () => {
 
             <p className="w-full max-w-xs font-light text-xs text-center text-gray-600 mt-4">
               By continuing, you agree to calls, including by autodialer,
-              WhatsApp, or texts from Uber and its affiliates to the number
+              WhatsApp, or texts from GetRides and its affiliates to the number
               provided.
             </p>
           </>

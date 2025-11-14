@@ -45,7 +45,7 @@ const Navbar = () => {
         {/* Logo + Left Menu */}
         <div className="flex items-center gap-8">
           <div className="text-3xl font-bold">
-            <Link to="/">Uber</Link>
+            <Link to="/">GetRides</Link>
           </div>
           <div className="hidden md:flex gap-6">
             <Link to="/getride" className="hover:underline">
@@ -146,11 +146,11 @@ const Navbar = () => {
                     </div>
                     <div className="cursor-pointer hover:bg-gray-200 py-4 px-3 flex items-center">
                       <Utensils size={20} className="mr-2" />
-                      <span>Uber Eats</span>
+                      <span>GetRides Eats</span>
                     </div>
                     <div className="cursor-pointer hover:bg-gray-200 py-4 px-3 flex items-center">
                       <Building size={20} className="mr-2" />
-                      <span>Uber for Business</span>
+                      <span>GetRides for Business</span>
                     </div>
                     <div className="border-t border-gray-300 pt-6 justify-center flex py-4">
                       <button

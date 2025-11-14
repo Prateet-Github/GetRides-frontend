@@ -69,7 +69,7 @@ console.log('When seeing Get Started button, status is:', user?.driverRequest);
       {/* Header */}
       <header className="flex items-center justify-between px-6 py-4">
         <div className="flex items-center space-x-8">
-          <div className="text-2xl font-bold">Uber</div>
+          <div className="text-2xl font-bold">GetRides</div>
           <nav className="hidden md:flex items-center space-x-6">
             <a href="#" className="hover:text-gray-300 transition-colors">
               Ride
